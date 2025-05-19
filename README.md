@@ -15,7 +15,7 @@ A real-time hand gesture recognition system using computer vision.
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/your-username/gesture-recognition.git
+git clone https://github.com/IliaPiasta/gesture-recognition.git
 cd gesture-recognition
 pip install -r requirements.txt
 python app.py
@@ -50,4 +50,4 @@ gesture-recognition/
 
 ### 📬 Contact
 
-Questions or suggestions? Open an [Issue](https://github.com/iliapiasta/gesture-recognition/issues) or email factsmens@gmail.com
+Questions or suggestions? Open an [Issue](https://github.com/IliaPiasta/gesture-recognition/issues) or email factsmens@gmail.com
