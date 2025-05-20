@@ -21,7 +21,7 @@ If you're using Python 3.12 or newer, it won't install — pip won't find it.
 - Use Python 3.10 if possible (it's the most stable).
 - Create a virtual environment like this:
 
-  ```bash
+```bash
   # Example if you have Python 3.10 installed
   path\to\python310.exe -m venv .venv
   .venv\Scripts\activate
@@ -32,8 +32,9 @@ If you're using Python 3.12 or newer, it won't install — pip won't find it.
 
 If you’re not sure which Python version you have, run:
 -# SHOULD OPEN CMD
+
 ```bash
-python --version
+python -- version
 ```
 
 ## 🚀 Getting Started
