@@ -31,9 +31,9 @@ If you're using Python 3.12 or newer, it won't install — pip won't find it.
 ```
 
 If you’re not sure which Python version you have, run:
--# SHOULD OPEN CMD
 
 ```bash
+# cmd
 python -- version
 ```
 
