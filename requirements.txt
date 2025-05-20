@@ -1,4 +1,4 @@
-numpy==1.26.4
+# numpy==1.26.4
 opencv-python==4.11.0.86
 PyAutoGUI==0.9.54
 mediapipe==0.10.21
