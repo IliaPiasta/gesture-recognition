@@ -12,6 +12,30 @@ A real-time hand gesture recognition system using computer vision.
 - collections
 - (optional) TensorFlow / PyTorch
 
+## ⚠️ Note about Python versions
+
+mediapipe only works with Python 3.8 to 3.11.  
+If you're using Python 3.12 or newer, it won't install — pip won't find it.
+
+### ✅ What to do:
+- Use Python 3.10 if possible (it's the most stable).
+- Create a virtual environment like this:
+
+  ```bash
+  # Example if you have Python 3.10 installed
+  path\to\python310.exe -m venv .venv
+  .venv\Scripts\activate
+
+  pip install --upgrade pip
+  pip install mediapipe
+```
+
+If you’re not sure which Python version you have, run:
+-# SHOULD OPEN CMD
+```bash
+python --version
+```
+
 ## 🚀 Getting Started
 
 ```bash
